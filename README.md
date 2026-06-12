@@ -1,98 +1,101 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Malith+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Node.js+%7C+React;Building+HollyBnB+%26+TheUnityWare;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Malith%20Rashmika&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=45&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Creative%20Coder&descSize=18&descAlignY=65&descAlign=50)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Malith&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%7C+MERN+%7C+Open+to+Collabs&descAlignY=60&descAlign=50)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=620&lines=console.log(%22Hello%2C+World!%22)+%F0%9F%91%8B;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+Stack+%7C+Node.js+%7C+React+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5;Open+for+collabs+%26+freelance+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```javascript
-const malith = {
-  role:       "Full Stack Developer",
-  stack:      ["MongoDB", "Express", "React", "Node.js"],
-  currentWork: ["HollyBnB — Hotel Booking Platform", "TheUnityWare — ERP System"],
-  passions:   ["Clean code", "Creative UI", "AI-assisted music (Suno AI)", "Survival content"],
-  funFact:    "I run a faceless YouTube channel called 'Survive or Die' 🏕️",
-  contact:    "Open for collabs & freelance work",
+## 🧬 About Me
+
+```typescript
+const malith: Developer = {
+  name:      "Malith Rashmika",
+  location:  "Sri Lanka 🇱🇰",
+  role:      "Full Stack Developer",
+  stack:     ["MongoDB", "Express", "React", "Node.js"],
+  interests: ["Clean Architecture", "Creative UI/UX",
+              "AI Music 🎵", "Survival Content 🏕️"],
+  status:    "Open to collabs & freelance 🤝",
+  motto:     "Ship fast. Learn faster.",
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛸 Tech Universe
 
 <div align="center">
 
-### Frontend
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&perline=7)](https://skillicons.dev)
+### 🎨 Frontend
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8)](https://skillicons.dev)
 
-### Backend & Database
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=5)](https://skillicons.dev)
+### ⚙️ Backend & Database
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,graphql&perline=6)](https://skillicons.dev)
 
-### DevOps & Tools
-[![Skills](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,cloudinary&perline=7)](https://skillicons.dev)
+### 🔧 Tools & DevOps
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux&perline=7)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malithrashmika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithrashmika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=malithrashmika&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithrashmika&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=malithrashmika&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=malithrashmika&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9&stroke=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🌌 3D Contribution View
+
+<div align="center">
+
+[![3D Contributions](https://raw.githubusercontent.com/malithrashmika/malithrashmika/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/malithrashmika)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malithrashmika/malithrashmika/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malithrashmika/malithrashmika/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/malithrashmika/malithrashmika/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/malithrashmika/malithrashmika/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Activity Graph
 
 <div align="center">
 
-[![HollyBnB](https://github-readme-stats.vercel.app/api/pin/?username=malithrashmika&repo=hollybnb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/malithrashmika/hollybnb)
-[![TheUnityWare](https://github-readme-stats.vercel.app/api/pin/?username=malithrashmika&repo=theunityware&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)](https://github.com/malithrashmika/theunityware)
-
-</div>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏨 **HollyBnB** | Full-featured hotel booking platform with admin panel, JWT auth, Stripe payments & Cloudinary uploads | React · Node.js · MongoDB · Stripe |
-| 🏢 **TheUnityWare** | Enterprise ERP system with Purchase Orders, Stock, HR & Department management | React · Redux Toolkit · Node.js |
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-[![Malith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malithrashmika&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malithrashmika&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -102,20 +105,20 @@ const malith = {
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=7C3AED)](https://open.spotify.com)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF)](https://open.spotify.com)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithrashmika)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malithrashmika)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -123,8 +126,8 @@ const malith = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=malithrashmika&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=malithrashmika&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 </div>
